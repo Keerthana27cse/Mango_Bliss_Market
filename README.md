@@ -6,10 +6,9 @@
 - PHP
 - MySQL
 
-MySQL Database folder contains the .sql file
+ MySQL Database folder contains the .sql file
  Mango_Bliss_Market folder contains all the .php files
-
-### This is a very basic website built to implement dynamic website.
+### Steps to be followed:
 - Open Xampp Control Panel
 - Start Mysql and Apache
 - Goto PhpMyAdmin
